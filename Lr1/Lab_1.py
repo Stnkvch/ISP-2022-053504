@@ -63,15 +63,16 @@ def Main():
     Words_Counter()
     Averange_Number_Of_Words()
     Median_Count_Words()
-    check = input("N = 4 and K = 10? (y/n): ")
-    if check == 'y':
-        n = 4
-        k = 10
-        Search_Top(n, k)
-    else:
-        n = int(input("Write n: "))
-        k = int(input("Write k: "))
-        Search_Top(n, k)
+    Search_Top(4, 10)
+    #check = input("N = 4 and K = 10? (y/n): ")
+    # if check == 'y':
+    #     n = 4
+    #     k = 10
+    #     Search_Top(n, k)
+    # else:
+    #     n = int(input("Write n: "))
+    #     k = int(input("Write k: "))
+    #     Search_Top(n, k)
 
 if __name__ == "__main__":
     Main()
