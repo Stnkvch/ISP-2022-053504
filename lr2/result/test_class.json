@@ -1,0 +1,163 @@
+{
+"type": "class",
+"value": {
+	"__name__": "B",
+	"members": {
+		"__doc__": null,
+		"__init__": {
+			"type": "function",
+			"value": {
+				"__name__": "__init__",
+				"__globals__": {
+					"A": "CLASS",
+					"B": "CLASS"
+					},
+				"__code__": {
+					"co_argcount": 3,
+					"co_cellvars": [
+
+						],
+					"co_code": {
+						"type": "bytes",
+						"value": [
+							116,
+							0,
+							131,
+							0,
+							160,
+							1,
+							124,
+							1,
+							161,
+							1,
+							1,
+							0,
+							124,
+							2,
+							124,
+							0,
+							95,
+							2,
+							100,
+							0,
+							83,
+							0
+							]
+						},
+					"co_consts": [
+						null
+						],
+					"co_filename": "C:/Users/denis/PycharmProjects/ISP-2022-053504/lr2/test_data.py",
+					"co_firstlineno": 7,
+					"co_flags": 3,
+					"co_freevars": [
+						"__class__"
+						],
+					"co_kwonlyargcount": 0,
+					"co_lnotab": {
+						"type": "bytes",
+						"value": [
+							0,
+							1,
+							12,
+							1
+							]
+						},
+					"co_name": "__init__",
+					"co_names": [
+						"super",
+						"__init__",
+						"b"
+						],
+					"co_nlocals": 3,
+					"co_posonlyargcount": 0,
+					"co_stacksize": 3,
+					"co_varnames": [
+						"self",
+						"a",
+						"b"
+						]
+					},
+				"__closure__": [
+					"B"
+					]
+				}
+			},
+		"__module__": "test_data"
+		},
+	"__bases__": [
+		{
+			"__name__": "A",
+			"members": {
+				"__doc__": null,
+				"__init__": {
+					"type": "function",
+					"value": {
+						"__name__": "__init__",
+						"__globals__": {
+							"A": "CLASS",
+							"B": "CLASS"
+							},
+						"__code__": {
+							"co_argcount": 2,
+							"co_cellvars": [
+
+								],
+							"co_code": {
+								"type": "bytes",
+								"value": [
+									124,
+									1,
+									124,
+									0,
+									95,
+									0,
+									100,
+									0,
+									83,
+									0
+									]
+								},
+							"co_consts": [
+								null
+								],
+							"co_filename": "C:/Users/denis/PycharmProjects/ISP-2022-053504/lr2/test_data.py",
+							"co_firstlineno": 2,
+							"co_flags": 67,
+							"co_freevars": [
+
+								],
+							"co_kwonlyargcount": 0,
+							"co_lnotab": {
+								"type": "bytes",
+								"value": [
+									0,
+									1
+									]
+								},
+							"co_name": "__init__",
+							"co_names": [
+								"a"
+								],
+							"co_nlocals": 2,
+							"co_posonlyargcount": 0,
+							"co_stacksize": 2,
+							"co_varnames": [
+								"self",
+								"a"
+								]
+							},
+						"__closure__": [
+
+							]
+						}
+					},
+				"__module__": "test_data"
+				},
+			"__bases__": [
+
+				]
+			}
+		]
+	}
+}
